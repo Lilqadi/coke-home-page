@@ -1,2 +1,2 @@
 # coke-home-page
-live demo =>
+live demo => https://coke-home-page.netlify.app
